@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "9c75d1088cdc5d7b8943",
+    "revision": "6ac01a25873374338655",
     "url": "/arfnews/static/css/main.990fbeab.chunk.css"
   },
   {
-    "revision": "9c75d1088cdc5d7b8943",
-    "url": "/arfnews/static/js/main.9c75d108.chunk.js"
+    "revision": "6ac01a25873374338655",
+    "url": "/arfnews/static/js/main.6ac01a25.chunk.js"
   },
   {
     "revision": "05a8e767b6b683ee5dc9",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/arfnews/static/js/runtime~main.15b736bc.js"
   },
   {
-    "revision": "95edd7834dcd929952fde548b2c44ea6",
+    "revision": "55465c521b82071c76237bc1d9507a8d",
     "url": "/arfnews/index.html"
   }
 ];

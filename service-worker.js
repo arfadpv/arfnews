@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/arfnews/precache-manifest.f58d4fc675eaa0d7944e73afbb921853.js"
+  "/arfnews/precache-manifest.f7b8947549a886f178c1f552cec7564a.js"
 );
 
 workbox.clientsClaim();
