@@ -1,0 +1,10 @@
+.topTitle{
+    font-weight: bold;
+    text-align: center;
+    font-size: 35px;
+}
+
+.arrowButtons{
+    display: flex;
+    justify-content: space-between;
+}
