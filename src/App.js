@@ -12,7 +12,7 @@ import LoadingBar from '../node_modules/react-top-loading-bar'
 
 const App = () => {
 
-  const apiKey = "efd8236e0ce542f1ac7f3eea9fc7a174"
+  const apiKey = process.env.REACT_APP_APIKEY
   
   const[progress,setProgress] = useState(0)
 
